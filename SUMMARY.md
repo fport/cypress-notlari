@@ -2,7 +2,7 @@
 
 * [🥑 1. Cypress – Giriş](README.md)
 * [📐 2. Cypress Kurulum](2.-cypress-kurulum.md)
-* [3. Test Runner](3.-test-runner.md)
+* [🥳 3. Test Runner](3.-test-runner.md)
 * [4. Cypress ile İlk Test](4.-cypress-ile-ilk-test.md)
 * [5. Cypress Destekleyen Tarayıcılar](5.-cypress-destekleyen-tarayicilar.md)
 * [6. Cypress Basit Komutlar](6.-cypress-basit-komutlar.md)
