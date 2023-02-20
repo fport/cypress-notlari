@@ -1,7 +1,7 @@
 # Table of contents
 
-* [1. Cypress – Giriş](README.md)
-* [2. Cypress Kurulum](2.-cypress-kurulum.md)
+* [🥑 1. Cypress – Giriş](README.md)
+* [📐 2. Cypress Kurulum](2.-cypress-kurulum.md)
 * [3. Test Runner](3.-test-runner.md)
 * [4. Cypress ile İlk Test](4.-cypress-ile-ilk-test.md)
 * [5. Cypress Destekleyen Tarayıcılar](5.-cypress-destekleyen-tarayicilar.md)
