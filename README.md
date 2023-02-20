@@ -25,3 +25,8 @@ Cypress ve Selenium işlevselliği açısından karşılatırma yapılıyor anca
 
 oluşturabiliriz
 
+
+
+**Not:** Cypress ile ilgili bir sunum yapmıştım. Bunu ekliyorum umarım faydası olur.&#x20;
+
+{% file src=".gitbook/assets/Cypress (1).pdf" %}
