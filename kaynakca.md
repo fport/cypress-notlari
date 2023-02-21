@@ -1,4 +1,5 @@
 # Kaynakça
 
-* [https://www.tutorialspoint.com/cypress/cypress\_tutorial.pdf](https://www.tutorialspoint.com/cypress/cypress\_tutorial.pdf)
-*
+{% embed url="https://www.tutorialspoint.com" %}
+
+{% embed url="https://docs.cypress.io/guides/overview/why-cypress" %}
