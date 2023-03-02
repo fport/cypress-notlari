@@ -16,6 +16,7 @@
 * [✅ 14. Cypress Checkbox](14.-cypress-checkbox.md)
 * [🍪 15. Cypress Cookie İşlemleri](15.-cypress-cookie-islemleri.md)
 * [☘ 16. Cypress  Get ve Post İşlemleri](16.-cypress-get-ve-post-islemleri.md)
+* [🦆 Api Response Data Type Kontrolu](api-response-data-type-kontrolu.md)
 * [🇲🇬 17. Cypress Fixtures](17.-cypress-fixtures.md)
 * [🆓 18. Cypress — Dashboard Hackliyoruz](18.-cypress-dashboard-hackliyoruz.md)
 * [🎥 19. Cypress Screenshotlar ve Videolar](19.-cypress-screenshotlar-ve-videolar.md)
